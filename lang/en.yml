@@ -9,7 +9,7 @@ en:
     Purpose: 'Purpose'
     Expiry: 'Expiry'
     Necessary: 'Necessary'
-    Necessary_Content: '<p>This website uses Cookies to save the user''s session and to carry out other activities that are strictly necessary for the operation of this website.'
+    Necessary_Content: '<p>This website uses Cookies to save the user''s session and to carry out other activities that are strictly necessary for the operation of this website.</p>'
     Analytics: 'Analytics'
     Analytics_Content: '<p>With analytical cookies we’re able to track site usage that in return lets us improve the information on the website.</p>'
     Marketing: 'Marketing'
@@ -17,7 +17,7 @@ en:
     External: 'External Content'
     External_Content: '<p>This type of services allows you to view content hosted on external platforms directly from the pages of this Application and interact with them.</p>'
     Preferences: 'Preferences'
-    Preferences_Content: 'p>This website uses cookies to save browsing preferences and to optimize the user''s browsing experience. Among these cookies are, for example, those used for the setting of language and currency preferences.</p>'
+    Preferences_Content: '<p>This website uses cookies to save browsing preferences and to optimize the user''s browsing experience. Among these cookies are, for example, those used for the setting of language and currency preferences.</p>'
   Innoweb\CookieConsent\Forms\CookieConsentForm:
     Save: 'Save'
     FormMessage: 'Your preferences have been saved'
