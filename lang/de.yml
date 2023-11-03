@@ -9,7 +9,7 @@ de:
     Purpose: 'Zweck'
     Expiry: 'Ablauf'
     Necessary: 'Notwendig'
-    Necessary_Content: '<p>Diese Website verwendet Cookies, um die Sitzung des Benutzers zu speichern und andere Aktivitäten durchzuführen, die für den Betrieb dieser Website unbedingt erforderlich sind.'
+    Necessary_Content: '<p>Diese Website verwendet Cookies, um die Sitzung des Benutzers zu speichern und andere Aktivitäten durchzuführen, die für den Betrieb dieser Website unbedingt erforderlich sind.</p>'
     Analytics: 'Analytics'
     Analytics_Content: '<p>Mit analytischen Cookies können wir die Nutzung der Website nachverfolgen, wodurch wir im Gegenzug die Informationen auf der Website verbessern können.</p>'
     Marketing: 'Marketing'
